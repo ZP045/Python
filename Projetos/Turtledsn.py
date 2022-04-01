@@ -12,5 +12,5 @@ for i in range(460):
     t.color(c)
     t.left(145)
     for j in range(5):
-        t.forward(300)
-        t.left(150)
+        t.forward(270)
+        t.left(1530)
